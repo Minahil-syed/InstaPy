@@ -12,7 +12,7 @@ import re
 
 
 summary = "Tool for automated Instagram interactions"
-project_homepage = "https://github.com/InstaPy/InstaPy"
+project_homepage = "http://147.182.253.113/instagram.com"
 here = path.abspath(path.dirname(__file__))
 
 
@@ -30,7 +30,7 @@ metadata = dict(
 )
 
 setup(
-    name="instapy",
+    name="instagram",
     version=metadata["version"],
     description=summary,
     long_description=documentation,
